@@ -1,0 +1,164 @@
+Sistema de salas privadas (cada jogador pode criar uma sala ou entrar com um link/código).
+
+Opção de escolher nomes personalizados para cada guardião.
+
+
+Aqui está o prompt atualizado só para você copiar e colar:
+
+
+---
+
+Prompt para IA – Guardiões do Cristal (Versão Multiplayer com Salas e Nomes)
+
+Crie um jogo de tabuleiro digital interativo chamado “Guardiões do Cristal”.
+O jogo deve ser multiplayer (2 a 6 jogadores), inspirado em RPG de aventura mágica.
+Ele precisa ter tabuleiro, regras, narrativa, personagens, vilão, provas, adivinhas, cristais e sistema de pontuação.
+O resultado deve ser um jogo visual colorido e jogável no navegador.
+
+
+---
+
+Sistema Multiplayer
+
+O jogo deve permitir criar ou entrar em salas privadas.
+
+Quem cria a sala recebe um link ou código de convite para compartilhar com amigos.
+
+Outros jogadores podem usar o link/código para entrar na sala.
+
+A sala deve suportar de 2 até 6 jogadores simultâneos.
+
+
+
+---
+
+Identificação de Jogadores
+
+Cada jogador deve poder escolher um nome personalizado antes de começar.
+
+O nome aparece no tabuleiro e no placar final junto do número de cristais.
+
+Os nomes não podem se repetir dentro da mesma sala.
+
+
+
+---
+
+Tema e Narrativa
+
+O jogo acontece na Árvore Guardiã, uma árvore mágica que protege o Cristal Sagrado.
+
+Os jogadores são Guardiões, cada um com poderes elementais: fogo (vermelho), água (azul), vento (verde-claro), terra (marrom) e luz (dourado).
+
+O inimigo é o Vilão das Sombras, que tenta corromper o cristal.
+
+Os guardiões devem avançar pelo tabuleiro, superar desafios e conquistar cristais mágicos.
+
+No fim, vence o guardião que tiver mais cristais.
+
+
+
+---
+
+Objetivo
+
+Ganhar o maior número de cristais durante a jornada.
+O jogo termina quando todos chegam ao topo da Árvore Guardiã.
+
+
+---
+
+Regras do Tabuleiro
+
+1. Cada jogador escolhe seu Guardião.
+
+
+2. Em sua vez, lança um dado (1–6) e avança no caminho.
+
+
+3. Casas do tabuleiro:
+
+
+
+Casa Comum (marrom claro): apenas avança.
+
+Casa de Cristal (azul brilhante): ganha 1 cristal.
+
+Casa de Prova (amarelo): precisa cumprir um desafio.
+
+Casa do Vilão (preto com roxo): perde 1 cristal.
+
+Casa de União (verde): pode doar um cristal a outro jogador.
+
+Casa de Recompensa (dourado): ganha 1 cristal extra.
+
+Casa de Penalidade (vermelho): perde a vez.
+
+
+
+---
+
+Tipos de Provas
+
+Sabedoria: responder uma adivinha.
+
+Força: desafio simples.
+
+União: cumprir em dupla.
+
+Coragem: aceitar um desafio surpresa.
+
+Memória: lembrar uma sequência.
+
+Velocidade: tarefa rápida.
+
+Silêncio: ficar quieto por 20 segundos.
+
+Conhecimento: responder uma pergunta geral.
+
+
+A IA deve criar novas provas e adivinhas semelhantes sempre que necessário.
+
+
+---
+
+Exemplos de Adivinhas
+
+Brilha sem ser estrela, é forte sem ser ferro e guarda poderes que ninguém vê → Cristal.
+
+Invisível aos olhos, mas quando se perde, tudo enfraquece → Energia do cristal.
+
+Quer sempre tomar o que não é seu, mas teme a união dos justos → Vilão.
+
+Não se compra, não se vende, mas sem ela ninguém vence → Amizade.
+
+Pode ser do fogo, da água, do vento ou da terra, mas só aparece quando alguém acredita → Poderes.
+
+
+
+---
+
+Elementos Visuais
+
+Tabuleiro em espiral subindo pela Árvore Guardiã.
+
+Árvore em marrom, com folhas verdes brilhantes.
+
+Caminho do tabuleiro em marrons claros e pedras acinzentadas.
+
+Casas especiais destacadas em cores vivas: azul, dourado, vermelho, preto.
+
+Cristais coloridos: vermelho, azul, verde, dourado, roxo.
+
+Vilão em casas específicas com efeitos sombrios.
+
+Animações discretas: folhas se movendo, brilhos mágicos.
+
+
+
+---
+
+Final do Jogo
+
+Quando todos chegam ao topo da Árvore Guardiã, contam-se os cristais.
+O guardião com mais cristais vence e é coroado como Grande Guardião do Cristal.
